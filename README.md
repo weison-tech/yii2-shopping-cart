@@ -17,7 +17,7 @@ php composer.phar require --prefer-dist omnilight/yii2-shopping-cart "*"
 or add
 
 ```json
-"omnilight/yii2-shopping-cart": "*"
+"weison-tech/yii2-shopping-cart": "*"
 ```
 
 to the `require` section of your composer.json.
